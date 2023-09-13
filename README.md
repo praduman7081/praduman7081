@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Praduman Singh</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
- <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/NUX_Octodex.gif">
+ <img align="right" alt="Coding" width="400" src="https://octodex.github.com/images/NUX_Octodex.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praduman7081&label=Profile%20views&color=0e75b6&style=flat" alt="praduman7081" /> </p>
 
 <p align="left"> <a href="https://twitter.com/praduman singh" target="blank"><img src="https://img.shields.io/twitter/follow/praduman singh?logo=twitter&style=for-the-badge" alt="praduman singh" /></a> </p>
